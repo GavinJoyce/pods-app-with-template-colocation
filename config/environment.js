@@ -3,6 +3,7 @@
 module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'pods-app-with-template-colocation',
+    podModulePrefix: 'pods-app-with-template-colocation/pods',
     environment,
     rootURL: '/',
     locationType: 'auto',
